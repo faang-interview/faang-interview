@@ -51,8 +51,6 @@
   - [https://www.interviewbit.com/](https://www.interviewbit.com/)
 - [Як потрапити в Google: інструкція з підготовки](https://dou.ua/lenta/articles/google-interview/) - стаття Сергія Семи про підготовку до інтерв'ю у фаанг.
 - [Cracking the coding interview book](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - книга, що стала класикою при підготовці
-- [http://larrr.com/ (рос.)](http://larrr.com/) - блог Лариси про Гугл, інтерв'ю, життя в долині.
-- [Хочу працювати в Google: Read Me First! (рос.)](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf) - добірка матеріалів з підготовки
 - [https://t.me/empireinthemaking (рос.)](https://t.me/empireinthemaking) - телеграм-канал Лариси
 - Мок-інтерв'ю
   - [https://www.pramp.com/](https://www.pramp.com/#/) - парні мок інтерв'ю
