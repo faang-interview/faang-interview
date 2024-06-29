@@ -41,8 +41,7 @@
 
 ## Mock-інтерв'ю спільноти
 
-Ми проводимо технічні мок-інтерв'ю в парах щотижня, більше деталей про те, як це проходить, у [цьому документі](https://docs.google.com/document/d/1n-7-U6y2Cr58AygViDWkiqtKRq_jQdsRNKOfc-Uw1xE/edit?usp=sharing) (док відкритий для коментування).
-[Гайд як проводити мок-інтерв'ю](https://docs.google.com/document/d/1cX5zhd5Yb3IlMA2smbs8XgQCIapgeQQ1LW-01DJ8W5M/edit#heading=h.54uirbe8rdgs).
+Ми проводимо технічні мок-інтерв'ю в парах щотижня, більше деталей про те, як це проходить, у [цьому документі](https://docs.google.com/document/d/1_QwU4o3UgoePjcgyREJd5AO9ctB26W-Ne0jZ3VFVWNk/edit?usp=sharing). [Гайд як проводити мок-інтерв'ю](https://docs.google.com/document/d/1kM6vcR74WCFifOADTodTcVrTOH3VmWACoaohd4iSjQU/edit?usp=sharing).
 
 ## Різні корисні посилання
 
